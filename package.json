@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-automation-assistant",
+  "version": "1.0.0",
+  "description": "LinkedIn Automation Chrome Extension",
+  "scripts": {
+    "generate-icons": "node generate-icons.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.1"
+  }
+}
